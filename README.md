@@ -7,8 +7,9 @@
 日記
 
 ### テーマを選んだ理由
-『日記に書く事がない』でやめてしまいがちな日記をあえて書くことを排除し、
-続けやすいを重要視した日記アプリが欲しかったので作成しました。
+1.簡単に、直感的にその日１日の感情を記録することができるから
+2.友達と日記をシェアした時に、絵文字や画像で書かれた日記なのでプライベートに踏み込みすぎることがないため
+また、それが逆にどんな１日だったのか想像する事ができて楽しそうだと思ったからです。
 
 ### ターゲットユーザ
 全年齢
@@ -18,7 +19,6 @@
 
 ## 設計書
 ・ER図
-https://drive.google.com/file/d/1ocmG7iPYmDJk0t_Gv_EO876W13Y0seWY/view?usp=sharing
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1WH4dd9EN7HmawvqWv1ON4DsriJ73ZrtB0St9hCmHRQ4/edit?usp=sharing
